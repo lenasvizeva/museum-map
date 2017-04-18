@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Слой_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="900px" height="603px"
+	 viewBox="0 0 900 603" style="enable-background:new 0 0 900 603;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+]]>
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  y="129.5" height="542.82" width="858.001" x="84.999" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<rect x="26" y="460" class="st0" width="47" height="88.5"/>
+<rect x="82.5" y="496.5" class="st0" width="48" height="45"/>
+<rect x="135.5" y="496.5" class="st0" width="27" height="29.5"/>
+<rect x="77" y="460" class="st0" width="85.5" height="32.5"/>
+<rect x="77" y="405" class="st0" width="85.5" height="51"/>
+<rect x="26" y="405" class="st0" width="47" height="51"/>
+<rect x="237" y="347.5" class="st0" width="75" height="41.5"/>
+<rect x="523" y="105" class="st0" width="67.5" height="109"/>
+<rect x="746.5" y="110" class="st0" width="43" height="42.5"/>
+<rect x="793.5" y="298.5" class="st0" width="86.5" height="72"/>
+<rect x="829" y="375.5" class="st0" width="51" height="26"/>
+<rect x="793.5" y="110" class="st0" width="86.5" height="183.5"/>
+<polygon class="st0" points="829,408.5 880,408.5 880,467.5 861,467.5 861,474 880,474 880,555 827,555 827,475 843.5,475.001 
+	843.5,468.834 827,469.001 827,408.5 "/>
+<polygon class="st0" points="597,29.833 880,29.833 880,103.5 746.5,103.5 746.5,86.167 597,86.833 "/>
+<polygon class="st0" points="597,97.5 651.001,97.5 651.001,100.167 656.667,100.167 656.667,92.167 741.334,92.167 
+	741.334,133.167 657.001,133.167 657,125.75 650.75,125.75 650.75,133.167 597,133.167 "/>
+<polygon class="st0" points="473.001,178.833 519.335,173.833 519.335,181.833 517.668,181.833 518.001,214 473.001,214 "/>
+<polygon class="st0" points="529.335,40.833 585.001,14.5 591.668,27.667 591.668,69.5 550.001,87.833 "/>
+<polygon class="st0" points="275.668,133.167 519.335,26.5 547.001,87.833 303.334,196.5 "/>
+<polygon class="st0" points="210.333,180.167 229.333,171.167 233,172.5 233,169.5 279.666,149.5 302.333,198.167 252,222.167 
+	223,198.167 224.666,193.917 218.666,193.917 "/>
+<polygon class="st0" points="263.666,222.167 304,202.5 304,200.5 509.333,109.833 518,128.5 271.666,239.167 "/>
+<polygon class="st0" points="196,298.167 231.666,298.167 231.666,295.833 251,295.833 251,298.167 312,298.167 312,342.167 
+	167.333,342.167 167.333,328.5 "/>
+<polygon class="st0" points="23.999,399.833 50.375,371.875 52.125,374 55.375,370.875 52.875,368.25 107.625,309.125 
+	109.375,310.625 112.375,307.75 110.125,305.625 155.5,256.5 157.375,257.75 159.5,255.25 157.625,253.625 212.375,194.75 
+	251.5,231.5 197.375,290.375 191.25,284.125 189.125,286.25 194.875,292.375 150.375,342.167 143.875,335.875 140.875,338.625 
+	146.625,344.75 96.625,400.875 87.125,400.875 73,387.625 70,390.125 76,396.5 76.375,400.875 23.999,400.875 "/>
+</svg>
